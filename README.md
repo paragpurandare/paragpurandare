@@ -24,7 +24,7 @@
 <p align="left"> <a href="https://twitter.com/purandare_parag" target="blank"><img src="https://img.shields.io/twitter/follow/purandare_parag?logo=twitter&style=for-the-badge" alt="purandare_parag" /></a> </p>
 
 - 🔭 I’m currently working on **Protios- An ecommerce platform for Protein bars based on Greek mythology**
-- 
+  
 - 👯 I’m looking to collaborate on **MLSC website- A dynamic and a responsive website built on three.js, react**
 
 - 💬 Ask me about **React, frontend development, MERN,**
