@@ -1,3 +1,4 @@
+![logo](https://github.com/paragpurandare/paragpurandare/blob/8b4f0a75f7d50a51583319eb9b83af90e3789ee0/64c628027231dc0013534637.png)
 <h1 align="center">Hi 👋, I'm Parag Purandare</h1>
 <p align="center">
   <h3>🚀 Full Stack Web Developer | React | Three.js | React-Three-Fiber | Styled Components | Next.js | MERN 🌐</h3>
