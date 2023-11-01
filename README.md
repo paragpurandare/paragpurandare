@@ -3,7 +3,7 @@
 <p align="center">
   <h3>🚀 Full Stack Web Developer | React | Three.js | React-Three-Fiber | Styled Components | Next.js | MERN 🌐</h3>
   <p>Hello there! 👋 I'm a passionate and innovative Full Stack Web Developer with expertise in cutting-edge technologies. I've been on an exciting quest to craft seamless and visually stunning web applications.</p>
-  <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+  <img align="center" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragpurandare&label=Profile%20views&color=0e75b6&style=flat" alt="paragpurandare" /> </p>
