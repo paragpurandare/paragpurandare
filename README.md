@@ -5,18 +5,6 @@
   <p>Hello there! 👋 I'm a passionate and innovative Full Stack Web Developer with expertise in cutting-edge technologies. I've been on an exciting quest to craft seamless and visually stunning web applications.</p>
   <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
-  <p>🔧 Harnessing the Power of React: React is my playground, and I love to turn complex ideas into beautiful, interactive UI components. With React's declarative approach, I create intuitive user interfaces that engage and captivate users, offering them an unforgettable digital journey.</p>
-  
-  <p>🎨 Elevating Aesthetics with Styled Components: A true believer in the importance of aesthetics, I use Styled Components to bring life to designs. By encapsulating styles with components, I create reusable and visually stunning interfaces, delivering a consistent and delightful user experience.</p>
-  
-  <p>⚡ Empowering with React-Three-Fiber: Merging the best of React and Three.js, I wield React-Three-Fiber to create high-performance 3D applications that seamlessly integrate into React projects, offering users an unparalleled visual journey.</p>
-  
-  <p>🔍 Exploring Limitless Possibilities with Next.js: With Next.js, I optimize web applications for speed and efficiency, ensuring they perform flawlessly. Server-side rendering and incremental static site generation are my go-to techniques to achieve exceptional performance.</p>
-  
-  <p>🛠️ Embracing MERN Stack: Proficient in the MERN (MongoDB, Express, React, Node.js) stack, I build robust and scalable web applications that cater to diverse user needs.</p>
-  
-  <p>🌟 Let's Collaborate: I'm always eager to take on new challenges and collaborate on exciting projects. If you're looking to create a dynamic web application that pushes the boundaries of innovation, I'm just a message away! Let's connect and turn your vision into reality. Together, we'll create digital experiences that leave a lasting impact. 🌈💻</p>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragpurandare&label=Profile%20views&color=0e75b6&style=flat" alt="paragpurandare" /> </p>
 
