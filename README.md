@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paragpurandare&show_icons=true&locale=en" alt="paragpurandare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paragpurandare&" alt="paragpurandare" /></p>
+<p><img align="center" src="https://parag-purandare-portfolio-itjn.vercel.app/" alt="paragpurandare" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
