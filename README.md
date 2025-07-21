@@ -1,27 +1,26 @@
 ![logo](https://github.com/paragpurandare/paragpurandare/blob/8b4f0a75f7d50a51583319eb9b83af90e3789ee0/64c628027231dc0013534637.png)
-<h1 align="center">Hi 👋, I'm Parag Purandare</h1>
 <p align="center">
-  <h3>🚀 Full Stack Web Developer | React | Three.js | React-Three-Fiber | Styled Components | Next.js | MERN 🌐</h3>
-  <p>Hello there! 👋 I'm a passionate and innovative Full Stack Web Developer with expertise in cutting-edge technologies. I've been on an exciting quest to craft seamless and visually stunning web applications.</p>
-  <img align="center" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+  <em>Innovative, curious, and always exploring the intersection of Full Stack Web Development and emerging technologies.</em>
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paragpurandare&label=Profile%20views&color=0e75b6&style=flat" alt="paragpurandare" /> </p>
+🔍 I’m a curious builder who loves turning ideas into real, usable tech. I found my passion in software early on. Since then, I've been diving into Full Stack development and AI integrations, building everything from prompt-sharing apps to blockchain-backed platforms. My current focus is **NeoterikAI** — a personal project where I’m using GenAI to help job seekers generate better, more personalized applications.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paragpurandare" alt="paragpurandare" /></a> </p>
+🚀 Whether it's a solo side project, a hackathon sprint, or contributing to student clubs, I enjoy creating fast, functional tools that solve real problems. I love starting with nothing but an idea and shaping it into something useful — like a smart metering dashboard or a crowdfunding DApp. Right now, I'm especially excited about exploring LLMs and how AI can be used to make software more intuitive and helpful.
 
-<p align="left"> <a href="https://twitter.com/purandare_parag" target="blank"><img src="https://img.shields.io/twitter/follow/purandare_parag?logo=twitter&style=for-the-badge" alt="purandare_parag" /></a> </p>
+🧠 I’m driven by the challenge of merging clean engineering with creative, user-focused design. I stay hungry to learn and always ready to build what’s next.
 
-- 🔭 I’m currently working on **Protios- An ecommerce platform for Protein bars based on Greek mythology**
+---
+
+- 🔭 Currently working on **NeoterikAI**, a GenAI-powered browser extension for job seekers
+- 🧪 Exploring AI integrations, LLMs, LangChain, and RAG-powered architectures
+- 📚 Writing and building content to simplify learning for junior devs
+- 🤝 Actively open to collaboration, internships, and community projects
+- 🎯 Looking to join product-focused teams solving real-world user problems
+- 🎤 Fun Fact: I Love Singing and Playing Guitar and love exploring music.
   
-- 👯 I’m looking to collaborate on **MLSC website- A dynamic and a responsive website built on three.js, react**
-
-- 💬 Ask me about **React, frontend development, MERN,**
-
-- 📫 How to reach me **paragpurandare50@gmail.com**
-
-- ⚡ Fun fact **Singing is my hobby**
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
